@@ -1,0 +1,15 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "stan's project for goals, creating a MEAN application using Node.js and REST",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+ "dependencies" : {
+	"express": "latest",
+	"moongoose": "latest"
+},
+ "author": "Stanislaw Alam",
+  "license": "MIT"
+}
