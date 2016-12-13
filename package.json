@@ -6,10 +6,11 @@
   "scripts": {
     "test": "test"
   },
- "dependencies" : {
-	"express": "latest",
-	"moongoose": "latest"
-},
- "author": "Stanislaw Alam",
+  "dependencies": {
+    "express": "latest",
+    "moongoose": "latest",
+    "nodemon": "^1.11.0"
+  },
+  "author": "Stanislaw Alam",
   "license": "MIT"
 }

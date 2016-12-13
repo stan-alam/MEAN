@@ -1,0 +1,7 @@
+{
+  "name": "test",
+  "main": "server.js",
+  "dependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
